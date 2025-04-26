@@ -28,7 +28,7 @@ O conjunto de dados contém informações sobre clientes, com as seguintes colun
 
 ## Como visualizar
 - Abrir o notebook `.ipynb` para acompanhar a exploração e análise em SQL.
-- Acessar o dashboard no Power BI para visualizar os insights gerados a partir dos dados.
+- Acessar o dashboard no [Power BI](https://app.powerbi.com/view?r=eyJrIjoiMmNmZDg5ZjQtZmMxZC00NmQxLWFhM2EtYjA0ZjQ3NzU5NjRlIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9) para visualizar os insights gerados a partir dos dados.
 
 ## Autor
 Luiz Felipe  
